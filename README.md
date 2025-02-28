@@ -76,5 +76,5 @@ Escreva um programa que inverta os caracteres de uma string sem utilizar funçõ
 
 ---
 
-Feito com ❤️ por [Ítalo Lima](https://github.com/Limaitalos).
+Feito  por [Ítalo Lima](https://github.com/Limaitalos).
 
